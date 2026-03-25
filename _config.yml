@@ -1,0 +1,22 @@
+theme: minima
+title: "IT Help Desk Knowledge Base"
+description: "Troubleshooting guides, how-tos, and IT documentation"
+```
+3. Commit the file — your site will now have a clean theme automatically
+
+---
+
+## Phase 4 — Create Your IT Articles
+
+Create `.md` (Markdown) files for each guide. Here's a suggested structure:
+```
+it-knowledge-base/
+├── index.md               ← Home page
+├── _config.yml
+├── networking/
+│   └── vpn-setup.md
+├── windows/
+│   ├── reset-password.md
+│   └── printer-troubleshoot.md
+└── security/
+    └── phishing-guide.md
