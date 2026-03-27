@@ -2,10 +2,10 @@
 title : Phishing Identification Guide
 ---
 
-# Phising Indentification Guide
+# Phishing Identification Guide
 
 ## Overview
-Phisshing is one of the most common Cybersecurity threats facing organizations. This guide helps employees indentify phishing emails and respond appropriately to protect company data
+Phishing is one of the most common Cybersecurity threats facing organizations. This guide helps employees identify phishing emails and respond appropriately to protect company data
 
 ## Applies To
 - All employees receiving company email
@@ -13,15 +13,15 @@ Phisshing is one of the most common Cybersecurity threats facing organizations. 
 
 ---
 
-## How to indetify a Phishing Email
+## How to identity a Phishing Email
 
 ### Red Flag 1 Suspicious Sender Address
-Always check the **full emial address**, and not just the display name. Phishing emails often spoof display names but use fake domains.
+Always check the **full email address**, and not just the display name. Phishing emails often spoof display names but use fake domains.
 
 - ✅ Legitimate: `support@microsoft.com`
 - ❌ Phishing: `support@micros0ft-help.com`
 
-### Red Flag 2 - Urget or threatening Language
+### Red Flag 2 - Urgent or threatening Language
 Phishing emails create a false sense of urgency to pressure you into acting quickly
 
 Watch for phrases like:
@@ -30,16 +30,16 @@ Watch for phrases like:
 - *"You have been selected for a reward - claim now"*
 
 ### Red flag 3 - Unexpected Attachments or Links
-Never open Unexpected attachments or click links in emails you were not expexting. **Hover over the links** to preview the actual URL before clicking.
+Never open Unexpected attachments or click links in emails you were not expecting. **Hover over the links** to preview the actual URL before clicking.
 
 ### Red Flag 4 - Generic Greetings
-Legitmate emails use your anme. Phishing emails often use:
+Legitimate emails use your name. Phishing emails often use:
 -*"Dear Customer"*
 - *"Dear User"*
 - *"Hello Account Holder"*
 
 ### Red Flag 5 - Poor Grammar and Spelling
-Mnay emails contail spelling mistakes, awkward phrasing, or inconsistent formatting that a legitmate company would not sent.
+Many emails contain spelling mistakes, awkward phrasing, or inconsistent formatting that a legitimate company would not sent.
 
 ### Red Flag 6 - Request for sensitive Information
 LegitimateIT department and financial institutions will **NEVER** ask for:

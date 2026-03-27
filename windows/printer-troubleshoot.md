@@ -7,7 +7,7 @@ title: Printer Troubleshooting Guide
 ## Overview
 This Guide covers the most common printer issues reported to the IT help desk
 
-## Apploes to
+## Applies to
 - All network and locally connected printers
 - Windows 10 and Windows 11
 - Wired and wireless printer connections 
@@ -28,7 +28,7 @@ This Guide covers the most common printer issues reported to the IT help desk
 
 1. Open **Settings > Bluetooth and Devices > Printers and Scanners**
 2. Click the printer and select **Open print queue**
-3. Right Clickthe stuck job and select **Cancel**
+3. Right Click the stuck job and select **Cancel**
 4. If the job cannot be cancelled, open the Run dialog (**Win+R**) and type: `services.msc`
 5. Find **Print Spooler**, right-click and select **Stop**
 6. Navigate to `C:\Windows\System32\spool\PRINTERS` and **delete all files inside** (not the folder itself).
@@ -43,8 +43,8 @@ This Guide covers the most common printer issues reported to the IT help desk
 
 1. Go to **Settings > Bluetooth and Devices > Printers and Scanners**
 2. Click the Problem printer and select **Remove**
-3. Clikc **Add a printer or scanner** and wait for Windows to search
-4. Select the correct printer from the list and clikc **Add Device**
+3. Click **Add a printer or scanner** and wait for Windows to search
+4. Select the correct printer from the list and click **Add Device**
 5. If the printer does not appear, click **"The printer i want is not listed"** and enter the IP address manually
 
 ---
@@ -52,7 +52,7 @@ This Guide covers the most common printer issues reported to the IT help desk
 ## Common Errors & Fixes
 | Error | Fix |
 |---|---|
-| Driver unavailabe | Download latest driver from manufacturer website and reinstall |
+| Driver unavailable | Download latest driver from manufacturer website and reinstall |
 | Access Denied when printing | Check user permissions in print server or local printer |
 | Printer prints blank pages | Check ink/toner levels and run printer self-test |
 | Wrong printer is set as default | Go to Printers and Scanners, click the correct printer |
@@ -70,3 +70,4 @@ Escalate to **Tier2** if:
 
 ## Related Articles
 - [Ticket Escalation Policy](../ticketing/escalation-policy.md)
+

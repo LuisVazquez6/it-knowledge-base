@@ -38,7 +38,7 @@ This guide outlines the standard IT setup process for all new employees. IT shou
 5. Log in to **company email** and confirm access.
 6. Connect access to **shared drives** and required applications.
 7. Confirm access to **shared drives** and required applications.
-8. Complete any mandatory **IT SECURITY AWARENESS TRAINING** aasigned
+8. Complete any mandatory **IT SECURITY AWARENESS TRAINING** assigned
 
 ---
 
@@ -63,7 +63,7 @@ This guide outlines the standard IT setup process for all new employees. IT shou
 | Hardware issues | IT Help Desk | Call or in-person |
 | Security incident | IT Security Team | Call or submit a ticket |
 | VPN / Remote access | IT Help Desk | Call or submit a ticket |
-| Premissions / Access requests | IT Admin | Submit a ticket |
+| Permissions / Access requests | IT Admin | Submit a ticket |
 
 ---
 
@@ -71,7 +71,7 @@ This guide outlines the standard IT setup process for all new employees. IT shou
 If a new employee **cannot complete login or access required systems on Day 1**, escalate immediately to **Tier 2** to avoid business disruption.
 
 Document:
-- Wich systems are inaccessible 
+- Which systems are inaccessible 
 - Exact error messages displayed
 - Steps already attempted
 

@@ -10,7 +10,7 @@ A VPN (Virtual Private Network) allows employees to securely connect to the comp
 ## Applies To
 - All remote employees
 - Windows 10 and Windows 11 Devices
-- Company-iisues and approved personal Devices
+- Company-issues and approved personal Devices
 
 ---
 
@@ -28,13 +28,13 @@ A VPN (Virtual Private Network) allows employees to securely connect to the comp
 1. Open the VPN client
 2. Select your saved connection profile
 3. Enter your **company username and password**
-4. Clikc **Connect**
+4. Click **Connect**
 5. Wait for the status to change to **Connected**
 6. You can now access internal company resources as if you were in the office.
 
 ---
 
-## Step 4 - Dissconnect from the VPN
+## Step 4 - Disconnect from the VPN
 
 1. Open the VPN client
 2. Click **Disconnect**
