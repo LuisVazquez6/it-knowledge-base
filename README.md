@@ -73,7 +73,7 @@ This project was built to:
 - [ ] Add common error codes reference sheet
 - [ ] Add remote desktop (RDP) setup guide
 - [ ] Add Microsoft 365 troubleshooting guide
-- [ ] Add network connectivity troubleshooting guide
+- [X] Add network connectivity troubleshooting guide
 
 ---
 
