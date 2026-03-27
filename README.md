@@ -68,7 +68,7 @@ This project was built to:
 ## 📈 Roadmap
 
 - [ ] Add Windows 11 troubleshooting guide
-- [ ] Add Active Directory user management guide
+- [X] Add Active Directory user management guide
 - [ ] Add common error codes reference sheet
 - [ ] Add remote desktop (RDP) setup guide
 - [ ] Add Microsoft 365 troubleshooting guide
