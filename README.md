@@ -9,7 +9,7 @@ This knowledge base serves as a reference for common IT help desk scenarios, tro
 
 👉 [View the Knowledge Base](https://github.com/LuisVazquez6/it-knowledge-base)
 
-> Replace `yourusername` with your actual GitHub username.
+> Replace `LuisVazquez6` with your actual GitHub username.
 
 ---
 
