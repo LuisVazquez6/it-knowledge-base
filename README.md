@@ -16,20 +16,21 @@ This knowledge base serves as a reference for common IT help desk scenarios, tro
 ## 📂 Structure
 ```
 it-knowledge-base/
-├── index.md                        ← Home page
-├── _config.yml                     ← Jekyll theme config
-├── README.md                       ← This file
+├── index.md                                      ← Home page
+├── _config.yml                                   ← Jekyll theme config
+├── README.md                                     ← This file
 ├── windows/
-│   ├── reset-password.md           ← Password reset guide
-│   └── printer-troubleshoot.md     ← Printer troubleshooting
+│   ├── reset-password.md                         ← Password reset guide
+│   └── printer-troubleshoot.md                   ← Printer troubleshooting
 ├── networking/
-│   └── vpn-setup.md                ← VPN setup guide
+|   ├── Network-Connectivity-Troubleshooting.md   ← Network guide
+│   └── vpn-setup.md                              ← VPN setup guide
 ├── security/
-│   └── phishing-guide.md           ← Phishing identification
+│   └── phishing-guide.md                         ← Phishing identification
 ├── onboarding/
-│   └── new-employee-setup.md       ← New employee IT onboarding
+│   └── new-employee-setup.md                     ← New employee IT onboarding
 └── ticketing/
-    └── escalation-policy.md        ← Ticket escalation policy
+    └── escalation-policy.md                      ← Ticket escalation policy
 ```
 
 ---
