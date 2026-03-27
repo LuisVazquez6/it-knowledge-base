@@ -1,6 +1,7 @@
 ---
-title = How to Reset a Windows Password
+title: "How to Reset a Windows Password"
 ---
+
  # How to Rest a Windows account
 
  ## Problem 
