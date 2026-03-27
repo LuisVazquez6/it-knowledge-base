@@ -1,5 +1,5 @@
 ---
-Title = "Active Directory User Management Guide"
+Title = Active Directory User Management Guide
 ---
 
 **Category:** Windows / Active Directory
