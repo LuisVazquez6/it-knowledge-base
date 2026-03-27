@@ -70,4 +70,3 @@ Escalate to **Tier2** if:
 
 ## Related Articles
 - [Ticket Escalation Policy](../ticketing/escalation-policy.md)
-

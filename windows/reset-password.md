@@ -21,4 +21,3 @@ title: How to Reset a Windows Password
  ## Notes 
  - Password must be 8+ characters 
  - Must include uppercase, Number and symbols
-
